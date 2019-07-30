@@ -10,6 +10,5 @@
 
 ## Изображения
 
-<img src="https://yadi.sk/i/-6SSKstUS71oeg">
-<img src="https://yadi.sk/i/W2MOSGpbWIxlNw">
-
+<img src="https://github.com/yartsevden/glaccy/blob/master/img/Снимок%20экрана%202019-07-30%20в%2013.21.42.png">
+<img src="https://github.com/yartsevden/glaccy/blob/master/img/Снимок%20экрана%202019-07-30%20в%2013.22.13.png">
